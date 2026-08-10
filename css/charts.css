@@ -1,0 +1,95 @@
+/* chart section in Customer selections */
+
+/* pie chart */
+.pie-chart-container {
+  display: flex;
+  width: 100%;
+  height: 170px;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+  
+}
+
+#most-popular-games-played {
+  width: 130px;
+  max-width: 300px;
+}
+
+#most-popular-games-played caption {
+  font-size: 16px;
+  padding: 10px;
+  color: #ffd700;
+}
+#most-popular-games-played .highlighted {
+  animation: highlighted-bar 2s linear infinite;
+}
+@keyframes highlighted-bar {
+  0% {
+    box-shadow: none;
+  }
+  50% {
+    box-shadow:
+      0 0 1px 0 black,
+      0 0 20px 5px darkgrey;
+  }
+  100% {
+    box-shadow: none;
+  }
+}
+
+.pie-legend li {
+  font-size: large;
+}
+
+.pie-legend li:nth-child(1) {
+  color: rgba(240 50 50 / 75%);
+}
+.pie-legend li:nth-child(2) {
+  color: rgba(255 180 50 / 75%);
+}
+.pie-legend li:nth-child(3) {
+  color: rgba(255 220 90 / 75%);
+}
+.pie-legend li:nth-child(4) {
+  color: rgba(100 210 80 / 75%);
+}
+.pie-legend li:nth-child(5) {
+  color: rgba(90 165 255 / 75%);
+}
+.pie-legend li:nth-child(6) {
+  color: rgba(170 90 240 / 75%);
+}
+.pie-legend li:nth-child(7) {
+  color: rgba(180 180 180 / 75%);
+}
+
+/* chart section in leaderboard section */
+/* bar chart */
+
+#medals-won-barchart {
+  width: 100%;
+  max-width: 600px;
+  padding-top: 5px;
+  border-bottom: 1px solid white;
+}
+#medals-won-barchart .column {
+  --color-1: #fee101;
+  --color-2: #d7d7d7;
+  --color-3: #a77044;
+}
+
+#medals-won-barchart caption,
+#medals-won-barchart th {
+  color: #fee101;
+  font-size: 18px;
+}
+
+#medals-won-barchart td {
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+}
+
+#medals-won-barchart .highlighted {
+  animation: highlighted-bar 2s linear infinite;
+}

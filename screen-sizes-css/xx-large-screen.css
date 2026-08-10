@@ -1,0 +1,73 @@
+@media screen and (min-width: 1400px) {
+  /* sale */
+
+  .sale {
+    display: block;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  /* small screens heading */
+  .small-screens-heading {
+    display: none;
+  }
+
+  /* small screen menu */
+  .small-screen-menu {
+    display: none;
+  }
+
+  /* medium screen navigation */
+  .topics {
+    display: none;
+  }
+
+  /* main-section */
+  .main-container {
+    display: grid;
+    grid-template-columns: 19% 61% 20%;
+    width: 100%;
+    height: 900px;
+    background-color: black;
+  }
+
+  /* customer selections */
+  .customer-selections {
+    display: block;
+  }
+  .new-account h3 {
+    padding: 0;
+  }
+  /* pie chart section */
+  .pie-chart-container {
+    height: 170px;
+  }
+  #most-popular-games-played {
+    width: 130px;
+    max-width: 300px;
+  }
+
+  .pie-legend li {
+    font-size: large;
+  }
+  /* high-scores-section */
+  .high-scores-section {
+    display: block;
+  }
+
+  /* bar chart section */
+  #medals-won-barchart tr:nth-of-type(3) {
+    display: flex;
+  }
+  /* footer */
+  .project-footer {
+    position: static;
+  }
+  .delete-review {
+    display: block;
+  }
+
+  .footer-table {
+    display: block;
+    width: 27%;
+  }
+}
