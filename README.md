@@ -36,6 +36,7 @@ What problem does this application solve?
 
 - How to add bar charts and pie charts.
 - implement CSS to hide a scroll bar and add overflow to enable scroll ability.
+- Changed features to display depending on screen sizes
 
 ## Project Features
 
