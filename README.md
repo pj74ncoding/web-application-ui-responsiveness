@@ -45,6 +45,7 @@ What problem does this application solve?
 - Popular games pie chart and members monthly medal table bar chart
 - Browse game options, Alphabetically, by decade, by genre, console and by computer
 - Pie and Bar charts to show information
+- Added hover effects
 
 ---
 
