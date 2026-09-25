@@ -160,6 +160,6 @@ GitHub: https://github.com/pj74ncoding
 
 ---
 
-## License ( each project might have a different license)
+## License 
 
 This project is licensed under the MIT License.
