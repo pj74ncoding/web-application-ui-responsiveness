@@ -26,11 +26,9 @@ Live Demo: https://web-application-ui-responsiveness.vercel.app/
 
 ### Motivation
 
-Why did you build this project?
+To Build a responsive website homepage from my own design to improve my CSS skills
 
-### Objective
 
-What problem does this application solve?
 
 ### Learning Outcomes
 
