@@ -34,9 +34,10 @@ What problem does this application solve?
 
 ### Learning Outcomes
 
-- How to add bar charts and pie charts.
-- implement CSS to hide a scroll bar and add overflow to enable scroll ability.
-- Changed features to display depending on screen sizes
+- Learnt how to add bar charts and pie charts into my code using chart.css framework
+- Learnt how to implement CSS to hide a scroll bar and add overflow to enable scroll ability.
+- learnt about media queries 
+- Learnt to change features to display depending on screen sizes
 
 ## Project Features
 
