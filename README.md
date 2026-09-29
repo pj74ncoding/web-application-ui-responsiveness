@@ -26,7 +26,9 @@ Live Demo: https://web-application-ui-responsiveness.vercel.app/
 
 ### Motivation
 
-To Build a responsive website homepage from my own design to improve my CSS skills
+- ITonlinelearning course project
+
+ Built a responsive website homepage from my own design to improve my CSS skills
 
 
 
