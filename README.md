@@ -1,6 +1,6 @@
 # web-application-ui-responsiveness
 
-Designed my own gaming website homepage which is responsive on all screen sizes using HTML an CSS
+Designed my own gaming website homepage which is responsive on all screen sizes using HTML and CSS
 
 Live Demo: https://web-application-ui-responsiveness.vercel.app/
 
