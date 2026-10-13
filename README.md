@@ -30,22 +30,20 @@ Live Demo: https://web-application-ui-responsiveness.vercel.app/
 
  Built a responsive website homepage from my own design to improve my CSS skills
 
-
-
 ### Learning Outcomes
 
 - Learnt how to add bar charts and pie charts into my code using chart.css framework
-- Learnt how to implement CSS to hide a scroll bar and add overflow to enable scroll ability.
-- learnt about media queries 
-- Learnt to change features to display depending on screen sizes
+- Learnt how to implement CSS to hide a scroll bar and add overflow to enable scroll ability on different screen sizes
+- Learnt about media queries 
+- Learnt to display different features depending on screen sizes
 
 ## Project Features
 
-- responsive to screen sizes
+- Responsive to screen sizes
 - Embedded YouTube video of 1980's arcade games.
 - High scores leader board
 - Popular games pie chart and members monthly medal table bar chart
-- Browse game options, Alphabetically, by decade, by genre, console and by computer
+- Browse game options, alphabetically, by decade, by genre, console and by computer
 - Pie and Bar charts to show information
 - Added hover effects
 
@@ -104,11 +102,10 @@ cd web-application-ui-responsiveness
 Frontend:
 
 ```bash
-cd web-application-ui-responsiveness
 npm install
 ```
 
-### Run Development Servers
+### Run Application
 
 Frontend:
 
@@ -116,7 +113,7 @@ Frontend:
 npm start
 ```
 
-## Screenshots
+## Preview
 
 ```
 +---application-images
@@ -139,20 +136,12 @@ npm start
 |       tomb-raider.jpg
 |
 ```
-
-Add inside README:
-
-```markdown
-![Home Page](assets/home.png)
-![Dashboard](assets/dashboard.png)
-```
-
 ---
 
 ## Future Improvements
 
 - None
-
+  
 ---
 
 ## Credits
