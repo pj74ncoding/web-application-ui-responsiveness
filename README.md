@@ -44,7 +44,7 @@ Live Demo: https://web-application-ui-responsiveness.vercel.app/
 - High scores leader board
 - Popular games pie chart and members monthly medal table bar chart
 - Browse game options, alphabetically, by decade, by genre, console and by computer
-- Pie and Bar charts to show information
+- Pie and bar charts to show information
 - Added hover effects
 
 ---
